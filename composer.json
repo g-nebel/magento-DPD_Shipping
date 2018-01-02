@@ -1,7 +1,7 @@
 {
-  "name": "dpd/shipping",
+  "name": "g-nebel/magento-dpd-shipping",
   "type": "magento-module",
-  "version": "0.1.14",
+  "version": "1.1.1",
   "require": {
     "magento-hackathon/magento-composer-installer": "*"
   },
